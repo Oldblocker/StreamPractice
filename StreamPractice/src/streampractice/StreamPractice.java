@@ -50,7 +50,9 @@ public class StreamPractice {
         System.out.println();
         System.out.println("Słów o 5 literach " + five);
         
-        
+        String lol = "Ja ktak,żyć można";
+        System.out.println(lol.toString());
+        System.out.println(Arrays.asList(lol.split(",")));
         
     }
     
